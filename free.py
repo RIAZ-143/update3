@@ -22,7 +22,7 @@ os.system('termux-setup-storage')
 
  
 
-import update5
+import update3
 
  
 
@@ -30,4 +30,4 @@ import update5
 
  
 
-update5.menu()
+update3.menu()
